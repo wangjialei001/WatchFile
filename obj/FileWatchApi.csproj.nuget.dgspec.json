@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\opensource\\WatchFileApi\\FileWatchApi\\FileWatchApi.csproj": {}
+  },
+  "projects": {
+    "E:\\opensource\\WatchFileApi\\FileWatchApi\\FileWatchApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\opensource\\WatchFileApi\\FileWatchApi\\FileWatchApi.csproj",
+        "projectName": "FileWatchApi",
+        "projectPath": "E:\\opensource\\WatchFileApi\\FileWatchApi\\FileWatchApi.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "E:\\opensource\\WatchFileApi\\FileWatchApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\opensource\\WebApplication1\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\mypackage": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/EWTwBuLmnYZhIvhWCmpF1zEipCAVbc7cr5HDwAaKwLJ5REJsym/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
